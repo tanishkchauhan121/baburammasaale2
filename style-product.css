@@ -1,0 +1,200 @@
+*{
+    margin:0;
+    padding:0;
+}
+.vedio-container 
+{
+    width:75%;
+    margin: auto;
+    margin-top: 8vh;
+}
+
+video{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+.offer
+{
+    margin-top:-25vh;
+    margin-left: 80vh;
+    color: white;
+    font-size: 50px;
+}
+.masala1-rate
+{
+    margin-top: 30vh;
+    margin-left: 30vh;
+    font-size: xx-large;
+    width: 600px;
+    height: 400px;
+    background-color:antiquewhite;
+    justify-content: center;
+}
+#masala1-rate
+{
+    margin-top: 30vh;
+    margin-left: 10vh;
+}
+.masala1-img
+{
+    width:40%;
+    margin-top: 30vh;
+}
+#masala1-img
+{
+    width:400px;
+    height:400px;
+    object-fit: cover;
+}
+.masala1
+{
+    display: flex;
+}
+
+.masala2-rate
+{
+    margin-top: 10vh;
+    margin-left: 30vh;
+    font-size: xx-large;
+    width: 600px;
+    height: 400px;
+    background-color:antiquewhite;
+    justify-content: center;
+}
+#masala2-rate
+{
+    margin-top: 30vh;
+    margin-left: 10vh;
+}
+.masala2-img
+{
+    width:40%;
+    margin-top: 10vh;
+}
+#masala2-img
+{
+    width:400px;
+    height:400px;
+    object-fit: cover;
+}
+.masala2
+{
+    display: flex;
+}
+.masala3-rate
+{
+    margin-top: 10vh;
+    margin-left: 30vh;
+    font-size: xx-large;
+    width: 600px;
+    height: 400px;
+    background-color:antiquewhite;
+    justify-content: center;
+}
+#masala3-rate
+{
+    margin-top: 30vh;
+    margin-left: 10vh;
+}
+.masala3-img
+{
+    width:40%;
+    margin-top: 10vh;
+}
+#masala3-img
+{
+    width:400px;
+    height:400px;
+    object-fit: cover;
+}
+.masala3
+{
+    display: flex;
+}
+.masala4-rate
+{
+    margin-top: 10vh;
+    margin-left: 30vh;
+    font-size: xx-large;
+    width: 600px;
+    height: 400px;
+    background-color:antiquewhite;
+    justify-content: center;
+}
+#masala4-rate
+{
+    margin-top: 30vh;
+    margin-left: 10vh;
+}
+.masala4-img
+{
+    width:40%;
+    margin-top: 10vh;
+}
+#masala4-img
+{
+    width:400px;
+    height:400px;
+    object-fit: cover;
+}
+.masala4
+{
+    display: flex;
+}
+.masala5-rate
+{
+    margin-top: 20vh;
+    margin-left: 30vh;
+    font-size: xx-large;
+    width: 600px;
+    height: 600px;
+    background-color:#C3AFA7;
+    justify-content: center;
+}
+#masala5-rate
+{
+    margin-top: 30vh;
+    margin-left: 10vh;
+}
+.masala5-img
+{
+    width:40%;
+    margin-top: 20vh;
+}
+#masala5-img
+{
+    width:400px;
+    height:600px;
+    object-fit: cover;
+}
+.masala5
+{
+    display: flex;
+}
+.footer
+{
+    background-color:antiquewhite;
+    width:199vh;
+    height: 10vh;
+    justify-content:space-around;
+    
+}
+.footer-home
+{
+    margin-left: 10vh;
+}
+.footer-product
+{
+    margin-left: 10vh;
+}
+.footer-contact
+{
+    margin-left: 10vh;
+}
+.copyright
+{
+    margin-top: -5vh;
+    margin-left: 5vh;
+    font-size:16px;
+}

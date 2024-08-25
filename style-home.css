@@ -1,0 +1,159 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: 'Lato', sans-serif;
+}
+.navbar
+{   width:186.5vh;
+    height:3vh;
+    background-color: #111;
+    color:white;
+    padding: 20px 50px;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.outer-image{
+    width: 100%;
+}
+#home
+{   
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+.babu
+{
+    position:absolute;
+    top: 50%;
+    left:30%;
+    text-align:center;
+    font-size:xx-large;
+    color:white;
+}
+.babuup
+{
+    position:absolute;
+    top: 45%;
+    left:35%;
+    text-align:center;
+    color:white;
+}
+.spice
+{
+    font-size:50px;
+    margin-top: 5%;
+    margin-left: 5%;
+    width:60vh;
+}
+.matter
+{
+    font-size: x-large;
+    margin-left: 5%;
+    height: 20vh;
+    width:50vh;
+    
+}
+#matter-image
+{
+    width: 500px;
+    height: 600px;
+    margin-left: 100vh;
+    margin-top: -30vh;
+    
+}
+.range
+{
+    font-size: 50px;
+    margin-top: 5%;
+    margin-left: 45%;
+    width:60vh;
+}
+.range-matter
+{
+    font-size: x-large;
+    margin-left: 35%;
+    margin-top: 2%;
+    width:70vh;
+}
+.pics
+{
+    display: flex;
+}
+.pics img{
+    width:375px;
+    height:400px;
+}
+.pics-text
+{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-size:x-large;
+    margin-top: -28vh;
+}
+#fenn
+{
+    margin-left: 120px;
+}
+#about
+{
+    font-size: 50px;
+    margin-top: 5%;
+    margin-left: 45%;
+    width:60vh;
+    margin-top: 30vh;
+}
+#about-matter
+{
+    font-size: x-large;
+    margin-left: 35%;
+    margin-top: 2%;
+    width:70vh;
+}
+.about-image
+{
+    display: flex;
+}
+.about-image #chilli
+{
+    width:300px;
+    height:400px;
+    margin-left: 32vh;
+    margin-top: 5vh;
+}
+.about-image #turmeric
+{
+    width:700px;
+    height:400px;
+    margin-top: 5vh;
+}
+.footer
+{
+    background-color:antiquewhite;
+    width:199vh;
+    height: 10vh;
+    justify-content:space-around;
+    
+}
+.footer-home
+{
+    margin-left: 10vh;
+}
+.footer-product
+{
+    margin-left: 10vh;
+}
+.footer-contact
+{
+    margin-left: 10vh;
+}
+.copyright
+{
+    margin-top: -5vh;
+    margin-left: 5vh;
+    font-size:15px;
+}
+
+
